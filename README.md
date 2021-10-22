@@ -1,2 +1,3 @@
-# Cal
-SI CAlculator
+# Calculator using HTML,JS,CSS
+SI Calculator
+
